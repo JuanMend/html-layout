@@ -1,0 +1,52 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+.nav
+{
+    border: 1px solid #fff;
+    height: 10vh;
+    background: lightgray;
+}
+
+.square
+{
+  height: 60px;
+  width: 65px;
+  margin: 15px;
+  background-color: rgb(42, 182, 238);
+  display: inline-block;
+}
+
+p
+{
+  text-align: center;
+  color: #888;
+  font-size: 36px;
+  margin: 25px;
+}
+
+.box1
+{
+    height: 14vh;
+    background: rgb(48, 176, 226);
+    margin-top: 50px;
+
+}
+.box2
+{
+    background: rgb(79, 209, 187);
+    height: 14vh;
+}
+.box3
+{
+    height: 14vh;
+    background: rgb(154, 206, 154);
+}
+.box4
+{
+  height: 14vh;
+  background: rgb(216, 216, 32);
+}
